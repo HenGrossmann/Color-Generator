@@ -1,2 +1,2 @@
 #Color generator
-A program that generates random colours
+A program that generates random colors
