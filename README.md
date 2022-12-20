@@ -1,2 +1,3 @@
 # Color generator
-A program that generates random colors just by pressing a button
+The way this programm works is that it generates six hexadecimal numbers and displays them as the background color of a div element.
+
